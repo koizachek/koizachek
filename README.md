@@ -1,6 +1,6 @@
 - Hello, D.K. here – technology foresight and computer science student and post-graduate researcher. 
-- Interested in NLP and Human-Computer-Interaction. 
-- Using Python and R for data analysis and some softy web projects. 
+- Interested in NLP and Human-Computer-Interaction
+- Using Python (and R if i have to) for data analysis 
 - Learning C++ and Unity Development for VR
 
 <!---
