@@ -1,7 +1,7 @@
 - Hello, D.K. here – technology foresight and computer science student and post-graduate researcher. 
 - Interested in NLP and Human-Computer-Interaction
 - Using Python (and R if i have to) for data analysis 
-- Learning C++ and Unity Development for VR
+- Learning C++ for VR
 
 <!---
 koizachek/koizachek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
