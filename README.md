@@ -1,4 +1,4 @@
-- Hello, D.K. here – technology foresight and computer science student and post-graduate researcher. 
+- Hello, D.K. here –  Master' degree in technology foresight & a minor in computer science & post-graduate researcher. 
 - Interested in NLP and Human-Computer-Interaction
 - Using Python for data analysis 
 - Learning C++
