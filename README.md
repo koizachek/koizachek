@@ -1,4 +1,4 @@
-- Hello, D.K. here –  Masters in technology foresight & Bachelors in Computer Science 
+- Hello, there, I am Diana, a PhD Student in Business Informatics
 - Interested in NLP and Human-Computer-Interaction
 - Using Python for data analysis (just like anyone else) ✨
 <!---
