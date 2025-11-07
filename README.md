@@ -1,4 +1,4 @@
-- Hello, there, I am Diana, a PhD Student in Information Systems</br>
+- Hi. I am Diana, a PhD Student in Information Systems</br>
 - Researching Agentic AI Implementation for Human Skill Acquisition and Learning Systems</br>
 - Interested in GenAI in Interaction Design</br>
 - In the end of the day, everyone wants you to build a RAG bot.
