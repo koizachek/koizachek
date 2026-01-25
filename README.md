@@ -1,5 +1,5 @@
-- Hi. I am Diana, a PhD Student in Information Systems</br>
-- Researching Agentic AI Implementation for Human Skill Acquisition and Learning Systems</br>
+- Hi. I am Diana, PhD Student in Information Systems</br>
+- Researching Agentic AI Implementation for Human Skill Acquisition in Learning Systems</br>
 - Interested in GenAI in Interaction Design</br>
 - In the end of the day, everyone wants you to build a RAG bot.
 
